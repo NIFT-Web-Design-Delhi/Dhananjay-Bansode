@@ -4,4 +4,4 @@
 
 [[JURY ASSIGNMENT2]](https://nift-web-design-delhi.github.io/Dhananjay-Bansode/Assignment2/)
 
-[[JURY ASSIGNMENT3]](https://nift-web-design-delhi.github.io/Dhananjay-Bansode/dhananjay/)
+[[JURY ASSIGNMENT3]](https://nift-web-design-delhi.github.io/Dhananjay-Bansode/Assignment3/)
